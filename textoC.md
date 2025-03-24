@@ -1,2 +1,2 @@
-Este es el C
+Este es el C, editado por Sergio Larsen
 
