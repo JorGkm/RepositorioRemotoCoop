@@ -1,1 +1,1 @@
-Este es el B
+Este es el B, editado por Sergio Larsen
